@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishmallik&theme=monokai" alt="vishmallik" /></a> </p>
 
-- 🔭 I’m currently working on [Conduit Blog App](https://github.com/vishmallik/Conduit-blog)
+- 🔭 I’m currently working on My portfolio
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
